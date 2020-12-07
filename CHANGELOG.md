@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.6.0
+
+- Add `Lazy::into_value`
+
 ## 1.5.2
 
 - `OnceBox` API uses `Box<T>`.
